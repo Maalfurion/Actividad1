@@ -1,0 +1,26 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    margin: 4%;
+}
+
+
+.tit1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.tit2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.section-flex {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
